@@ -9,7 +9,7 @@ import Header from './Components/header'
 const App = () => {
   return (
     
-    <div className="w-full h-screen bg-zinc-800 text-white">
+    <div className="w-full h-screen bg-teal-800 text-white">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
