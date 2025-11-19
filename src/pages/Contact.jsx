@@ -25,7 +25,7 @@ const Contact = () => {
       <div className="max-w-6xl w-full bg-white rounded-2xl shadow-xl overflow-hidden grid grid-cols-1 md:grid-cols-2">
         
         {/* Left Side: Contact Information */}
-        <div className="bg-emerald-600 p-10 text-white flex flex-col justify-between">
+        <div className="bg-teal-800 p-10 text-white flex flex-col justify-between">
           <div>
             <h2 className="text-4xl font-bold mb-4">Get in touch</h2>
             <p className="text-indigo-100 mb-8 text-lg">
