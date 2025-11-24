@@ -16,13 +16,13 @@ body {
   background-color: #111;
   padding: 60px 60px;
   display: flex;
-  gap: 50px;
+  gap: 60px;
   flex-wrap: wrap;
 }
 
 .card{
-  height: 330px;
-  width: 280px;
+  height: 300px;
+  width: 300px;
   background-color: #fff;
   border-radius: 30px;
   padding: 30px;

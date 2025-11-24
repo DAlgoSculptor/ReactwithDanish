@@ -4,6 +4,17 @@ const App = () => {
 
   const jobOpenings = [
     {
+      brandLogo: "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/nvidia-og-image-white-bg-1200x630.jpg",
+      companyName: "NVIDIA",
+      datePosted: "3 weeks ago",
+      post: "GPU Programmer",
+      tag1: "Full Time",
+      tag2: "Senior Level",
+      pay: "$120/hour",
+      location: "Santa Clara, USA"
+    },
+    {
+      
       brandLogo: "https://pngimg.com/uploads/meta/meta_PNG12.png",
       companyName: "Meta",
       datePosted: "5 days ago",
@@ -82,16 +93,6 @@ const App = () => {
       tag2: "Mid Level",
       pay: "$80/hour",
       location: "Austin, USA"
-    },
-    {
-      brandLogo: "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/nvidia-og-image-white-bg-1200x630.jpg",
-      companyName: "NVIDIA",
-      datePosted: "3 weeks ago",
-      post: "GPU Programmer",
-      tag1: "Full Time",
-      tag2: "Senior Level",
-      pay: "$120/hour",
-      location: "Santa Clara, USA"
     },
     {
       brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s",
